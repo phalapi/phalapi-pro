@@ -1,7 +1,7 @@
 # PhalApi Pro
 PHP开放平台，搭建开放平台的最佳选择。基于开源的PhalApi框架打造的商业软件，官方出品。
 
-> PhalApi专业版官网：http://pro.phalapi.net/  
+> PhalApi专业版官网：http://pro.phalapi.net/   （可购买商业授权和源代码）  
   
 > PhalApi在线演示：http://open.phalapi.net/  （管理员账号密码：admin / 123456）  
 
