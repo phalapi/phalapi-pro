@@ -1,16 +1,16 @@
 # PhalApi Pro
-PHP开放平台，搭建开放平台的最佳选择。基于开源的PhalApi框架打造的商业软件，官方出品。
+PHP开放平台，搭建云平台的最佳选择。基于开源的PhalApi框架打造的商业软件，官方出品。
 
 > PhalApi专业版官网：http://pro.phalapi.net/   （可购买商业授权和源代码）  
   
-> PhalApi在线演示：http://open.phalapi.net/  （管理员账号密码：admin / 123456）  
+> 在线演示：http://open.phalapi.net/  （管理员账号密码：admin / 123456）  
 
 # 整体架构及业务流程
 
-PhalApi Pro，是一套专注搭建开放平台的系统软件，企业可以基于PhalApi Pro快速搭建自主的开放平台，也可以使用PhalApi Pro开发接口给内部产品或外部客户调用。  
+PhalApi Pro，是一套专注搭建云平台的系统软件，企业可以基于PhalApi Pro快速搭建自主的云平台、BaaS、SaaS、PaaS等平台，也可以使用PhalApi Pro开发接口给内部产品或外部客户调用。  
 
 开放平台的整体架构及业务流程如下：  
-![](http://cdn7.okayapi.com/yesyesapi_20200411142428_796377338e6487d50791b8e89443b735.png)  
+![](http://cdn7.okayapi.com/yesyesapi_20200415115806_ea773ef9474aaf016e04cc02e6e0933e.png)  
 
 ## 整体架构
 
